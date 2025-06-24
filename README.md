@@ -1,11 +1,12 @@
 python-tasks 
 1. working with data
    
-![image](https://github.com/user-attachments/assets/fe5d967b-bdb5-49a3-82cf-d2b2be96176a)
-![image](https://github.com/user-attachments/assets/ba37ebf9-046d-472a-abfe-58bf858285b8)
-![image](https://github.com/user-attachments/assets/617903a6-b970-4e39-9c8c-03030179d517)
-![image](https://github.com/user-attachments/assets/6555c656-9c64-40df-b177-91b5a45cf188)
+![Screenshot 2025-06-23 205839](https://github.com/user-attachments/assets/82b0ff79-f59f-4698-8f1a-fbfbe68e9296)
+![Screenshot 2025-06-23 205914](https://github.com/user-attachments/assets/851d58da-e293-4402-bd5e-658591cf8208)
+![Screenshot 2025-06-23 205939](https://github.com/user-attachments/assets/98e206ce-b692-48bd-8d2f-5593cf9dfae4)
+![Screenshot 2025-06-23 210044](https://github.com/user-attachments/assets/08091cab-e97a-4318-8bda-352661df6a83)
 
 2 .todo
 
-![image](https://github.com/user-attachments/assets/f712584f-d383-4d77-b774-1f327d8532df)
+![Screenshot 2025-06-23 211719](https://github.com/user-attachments/assets/0d8b7488-ba9f-4a44-8dea-ab361db9df56)
+
